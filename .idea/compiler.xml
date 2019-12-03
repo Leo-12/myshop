@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="active_demo" />
+        <module name="cas_demo" />
+        <module name="cas_demo2" />
+        <module name="common" />
+        <module name="dao" />
+        <module name="fastDFSdemo" />
+        <module name="freemarker_demo" />
+        <module name="info_sms_demo" />
+        <module name="interface" />
+        <module name="pojo" />
+        <module name="security_login" />
+        <module name="service_buyer" />
+        <module name="service_page" />
+        <module name="service_search" />
+        <module name="service_sellgoods" />
+        <module name="service_user" />
+        <module name="solr" />
+        <module name="spring_data_redis_demo" />
+        <module name="spring_data_solr" />
+        <module name="springboot_demo" />
+        <module name="web_manager" />
+        <module name="web_portal" />
+        <module name="web_shop" />
+        <module name="web_user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
